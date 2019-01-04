@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DrinkApp</string>
+
+    <string name="FACEBOOK_APP_ID">1929363850471389</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">0b56db77301eee3126d7d8b84af8716d</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nearby_store">Map</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-1158551099073779~3070366456</string>
+    <string name="banner_home_footer">ca-app-pub-1158551099073779/1863303984</string>
+    <string name="interstitial_full_screen">ca-app-pub-1158551099073779/1412711998</string>
+    <string name="rewarded_video">ca-app-pub-1158551099073779/6090323601</string>
+
+</resources>

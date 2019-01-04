@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrinkDetail">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/image_slider"
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+        </com.daimajia.slider.library.SliderLayout>
+
+    <ImageView
+        android:id="@+id/show_img"
+        android:src="@drawable/ic_delete_black_24dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/pg_title"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:text="hfdgdgdegf fgedvfggdvgd"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:id="@+id/pg_price"
+            android:layout_marginTop="20dp"
+            android:textSize="20dp"
+            android:text="hfdgdgdegf fgedvfggdvgd"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>
