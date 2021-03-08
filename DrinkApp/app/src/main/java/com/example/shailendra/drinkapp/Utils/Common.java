@@ -20,8 +20,8 @@ import java.util.List;
  */
 public class Common {
 
-    public static final String BASE_URL = "http://shikhaelectricals.com/DrinkShop/";
-    public static final String API_TOKEN_URL = "http://shikhaelectricals.com/DrinkShop/braintree/main.php";  //for payment gateway
+    public static final String BASE_URL = "APIURL";
+    public static final String API_TOKEN_URL = "PAYMENTTOKENURL";  //for payment gateway
 
     public static User currentUser = null;
 
